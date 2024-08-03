@@ -27,7 +27,7 @@
 ### Projects:
 
 <p align="center">
-  <a href="https://github.com/yourusername/yourproject">
+  <a href="https://github.com/Al-Jazzazi/Microprocessor-Implementation-VHDL">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Al-Jazzazi&repo=Microprocessor-Implementation-VHDL&theme=radical">
     
   </a>
