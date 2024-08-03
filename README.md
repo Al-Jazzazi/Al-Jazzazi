@@ -15,22 +15,14 @@
 - 🌱 I’m currently learning **React Native, Node.js, and AWS**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: [Email](ya2225@nyu.edu)
-- ⚡ Fun fact: I love hiking, reading books, and astronomy (Orion being my favorite constallation)!
+- ⚡ Fun fact: I love hiking 🥾, reading books 📚, and astronomy 🌌 (Orion being my favorite constellation ✨)!
+
 ### Connect with me:
 
 <p align="center">
   <a href="https://linkedin.com/in/yousef-al-jazzazi"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue"></a>
   <a href="https://github.com/Al-Jazzazi"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&labelColor=black"></a>
 </p>
-
-### Languages and Tools:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-</p>
-
 
 
 ### Top Languages:
