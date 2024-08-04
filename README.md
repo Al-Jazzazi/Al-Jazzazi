@@ -39,7 +39,7 @@
 
 ### <p align="center"> 💭 &nbsp; **Contact Me here:** </p>
 
-<p align="center"><a  href="https://www.linkedin.com/in/rahaf-al-jazzazi-28635111a/"><img width="40%" src="https://cdn.svgator.com/images/2021/08/Linked-in-logo-animation.gif" /></a></p>
+<p align="center"><a  href="https://www.linkedin.com/in/yousef-al-jazzazi"><img width="40%" src="https://cdn.svgator.com/images/2021/08/Linked-in-logo-animation.gif" /></a></p>
 
 <br/>
 
