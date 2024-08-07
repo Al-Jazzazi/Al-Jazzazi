@@ -31,8 +31,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Al-Jazzazi&repo=Microprocessor-Implementation-VHDL&theme=radical">
     
   </a>
-    <a href="https://github.com/Zetta56/Summer2024-Research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zetta56&repo=Summer2024-Research&theme=radical">
+    <a href="https://github.com/Al-Jazzazi/Summer2024-Research">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Al-Jazzazi&repo=Summer2024-Research&theme=radical">
   </a>
 </p>
 
